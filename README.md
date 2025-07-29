@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Allieniaszxy/Allieniaszxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Al-Amin Alaka
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+💼 Aspiring Full-Stack Developer  
+🌍 Based in Nigeria  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Skills
+- JavaScript, React, Node.js
+- MongoDB, Firebase
+- HTML, CSS, Tailwind CSS
+- Git & GitHub
+
+## 📈 GitHub Stats
+![Al-Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaka&show_icons=true&theme=radical)
+
+## 📫 Reach Me
+- [LinkedIn](https://linkedin.com/in/al-amin-alaka/)
+- [Twitter](https://x.com/prometheus_40)
+- Email: alakaalamin@email.com
 -->
